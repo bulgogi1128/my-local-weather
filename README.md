@@ -33,6 +33,6 @@ Alternatively, download the Zip file and then run Index.html. the js file attach
 
 
 
-## Authors
+## Author
 
 * **BULGOGI1128** 
