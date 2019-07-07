@@ -12,7 +12,7 @@
 My Local Weather is a website that allows you to check the local weather based on your currentl location using Darksky weather API.  
 
 
-### How To
+## How To
 
 Go to: https://bulgogi1128.github.io/my-local-weather/
 
