@@ -1,0 +1,83 @@
+
+
+.navbar-text {
+    
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 1.5rem;
+    align-items: center;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(rgb(52, 186, 204), rgb(49, 68, 180));
+    background-size: AUTO;
+    background-position: center;
+    font-family: "Nunito", sans-serif;
+    color: white;
+}
+
+.location-timezone h2 {
+    font-size: 0.5rem;
+    height: 10vh;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Nunito", sans-serif;
+    color: white;
+}
+
+.location,
+.icon {
+    text-align: center;
+    color: white;
+    font-size: 30%;
+    justify-content: center;
+}
+
+.temperature {
+    font-size: 20%;
+    height:30vh;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: "Nunito", sans-serif;
+    color: white;
+}
+.temperature {
+    justify-content: baseline;
+    flex-direction: column;
+    font-family: "Nunito", sans-serif;
+    color: white;
+    
+}
+.degree-selection {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-family: "Nunito", sans-serif;
+    color: white;
+    
+}
+
+.degree-selection span {
+    
+    font-size: 30px;
+}
+.degree-selection h2 {
+    font-size: 40px;
+}
+
+.temperature-description {
+    margin: 10px;
+    font-size: 1.5rem;
+    text-align: center;
+}
