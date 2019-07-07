@@ -16,7 +16,7 @@ My Local Weather is a website that allows you to check the local weather based o
 
 Go to: https://bulgogi1128.github.io/my-local-weather/
 
-Alternatively, download the Zip file and run Index.html. the js file attached in the folder will automatically fetch the weather data from the API!
+Alternatively, download the Zip file and then run Index.html. the js file attached in the folder will automatically fetch the weather data from the API!
 
 ```
 *** Make sure to turn on the Geolocation! ***
